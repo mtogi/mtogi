@@ -1,6 +1,8 @@
-## Hi there 👋, I'm Toygar
+## Hello World
 
-- 🌱 I’m currently learning AWS
+🦐 Fun fact: The [mantis shrimp](https://en.wikipedia.org/wiki/Mantis_shrimp) can throw a punch at the same acceleration as a gunshot from a twenty-two caliber bullet!
+<br> <br>
+🌱  Currently learning AWS
 <!--
 **mtogi/mtogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
